@@ -7,8 +7,10 @@ import java.security.KeyStore;
 import java.util.HashMap;
 import java.util.Map;
 
+ //LENGE KIBWE JONATHAN
 /**
  * Client messagerie SSL/TLS avec interface graphique Swing.
+
  *
  * Fonctionnalités :
  * - Saisie adresse IP et pseudo utilisateur
