@@ -10,7 +10,7 @@ import java.util.Map;
  //KASONGO WA ILUNGA PIERRETTE 
  //LENGE KIBWE JONATHAN
 //MONGA CLÉMENT SAMUEL 
-/**
+//BUZITO KAHITE OURDAIN
  * Client messagerie SSL/TLS avec interface graphique Swing.
 
  *
