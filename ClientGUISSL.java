@@ -6,7 +6,7 @@ import java.io.*;
 import java.security.KeyStore;
 import java.util.HashMap;
 import java.util.Map;
-
+/**KASONGO WA ILUNGA PIERRETTE 
  //LENGE KIBWE JONATHAN
 /**
  * Client messagerie SSL/TLS avec interface graphique Swing.
